@@ -1,0 +1,30 @@
+{
+  "name": "농업인 통합관리 DB v2.1",
+  "short_name": "농업인DB",
+  "description": "농업인 기본정보, 교육, 상담, 사업, 현장코칭 통합관리",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5ef",
+  "theme_color": "#294b36",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
